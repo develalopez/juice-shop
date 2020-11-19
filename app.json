@@ -22,7 +22,7 @@
   "logo": "https://raw.githubusercontent.com/develalopez/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png",
   "env": {
     "NODE_ENV": {
-      "description": "Enviroment variable to setup instance in CTF mode."
+      "description": "Enviroment variable to setup instance in CTF mode.",
       "value": "ctf"
     }
   }
